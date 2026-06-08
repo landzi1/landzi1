@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landzi1&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landzi1&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&border_radius=10&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" width="300"/>
 
 - 🇵🇱 Based in **Poland**
 - 🔭 Currently working on **OutThink** & **RealEstate-wizualizacja**
@@ -27,49 +27,53 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=landzi1&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&border_radius=10&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Maciej's GitHub Stats" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=landzi1&theme=github-dark-blue&hide_border=false&border_radius=10&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0D1117&border=30363d" alt="GitHub Streak" height="165"/>
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/landzi1/OutThink">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=landzi1&repo=OutThink&theme=github_dark&hide_border=false&border_color=30363d&border_radius=10&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="OutThink Repo" width="400"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/landzi1/RealEstate-wizualizacja">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=landzi1&repo=RealEstate-wizualizacja&theme=github_dark&hide_border=false&border_color=30363d&border_radius=10&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="RealEstate Repo" width="400"/>
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-
+<br/>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<br/>
 **Tools & Platforms**
-
+<br/>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🔭 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🔧 Tech |
-|:---:|:---:|:---:|
-| **OutThink** | Logic & algorithm challenges — sharpening problem-solving skills | `Python` |
-| **RealEstate-wizualizacja** | Real estate data visualization and analytics | `Python` `TypeScript` |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=landzi1&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Maciej's GitHub Stats" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=landzi1&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0D1117" alt="GitHub Streak" height="165"/>
 
 </div>
 
