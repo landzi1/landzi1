@@ -9,10 +9,10 @@
 
 <!-- Stats & Top Languages Side-by-Side (Minimalist Transparent Style like potatosalad775) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=landzi1&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-jinwoo-lees-projects.vercel.app/api?username=landzi1&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landzi1&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=5" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-jinwoo-lees-projects.vercel.app/api/top-langs/?username=landzi1&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=5" alt="Top Languages" />
 </a>
 
 <br/>
@@ -26,10 +26,10 @@
 
 <!-- Pinned Projects Side-by-Side -->
 <a href="https://github.com/landzi1/OutThink">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=landzi1&repo=OutThink&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="OutThink Repo" />
+  <img height="160" src="https://github-readme-stats-jinwoo-lees-projects.vercel.app/api/pin/?username=landzi1&repo=OutThink&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="OutThink Repo" />
 </a>
 <a href="https://github.com/landzi1/RealEstate-wizualizacja">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=landzi1&repo=RealEstate-wizualizacja&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="RealEstate Repo" />
+  <img height="160" src="https://github-readme-stats-jinwoo-lees-projects.vercel.app/api/pin/?username=landzi1&repo=RealEstate-wizualizacja&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="RealEstate Repo" />
 </a>
 
 <br/><br/>
