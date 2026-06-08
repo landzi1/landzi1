@@ -1,8 +1,15 @@
 <div align="center">
 
-<!-- Waving Banner with Twinkling Animation -->
+<!-- Animated Typing SVG (Large Header) -->
 <a href="https://github.com/landzi1">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1&height=220&section=header&text=Hello,%20I'm%20Maciej!&fontSize=55&fontAlignY=35&desc=A%20passionate%20Python%20%26%20TypeScript%20Developer&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hello,+I'm+Maciej!+👋;Welcome+to+my+GitHub!+✨" alt="Header Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Animated Typing SVG (Subtitle) -->
+<a href="https://github.com/landzi1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&height=50&lines=Python+%26+TypeScript+Developer;Building+scalable+backend+logic;Always+learning+new+technologies" alt="Subtitle Typing SVG" />
 </a>
 
 <br/>
@@ -17,24 +24,17 @@
 
 <br/>
 
-<!-- Animated Typing SVG -->
-<a href="https://github.com/landzi1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+backend+logic;Crafting+insightful+data+visualizations;Always+exploring+new+technologies" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Pinned Projects Side-by-Side -->
+<!-- Pinned Projects Side-by-Side (Fixed Repositories) -->
 <a href="https://github.com/landzi1/OutThink">
   <img height="160" src="https://github-readme-stats-jinwoo-lees-projects.vercel.app/api/pin/?username=landzi1&repo=OutThink&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="OutThink Repo" />
 </a>
-<a href="https://github.com/landzi1/RealEstate-wizualizacja">
-  <img height="160" src="https://github-readme-stats-jinwoo-lees-projects.vercel.app/api/pin/?username=landzi1&repo=RealEstate-wizualizacja&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="RealEstate Repo" />
+<a href="https://github.com/landzi1/plateup-projekt">
+  <img height="160" src="https://github-readme-stats-jinwoo-lees-projects.vercel.app/api/pin/?username=landzi1&repo=plateup-projekt&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Plateup Repo" />
 </a>
 
 <br/><br/>
 
-<!-- Animated Tech Stack Icons Grid -->
+<!-- Tech Stack Icons Grid -->
 <a href="https://github.com/landzi1">
   <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,git,github,vscode,linux&theme=dark&perline=10" alt="Skills" />
 </a>
